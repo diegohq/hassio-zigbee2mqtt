@@ -1,5 +1,3 @@
 {
-  "name": "Home Assistant Add-on: Zigbee2MQTT",
-  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt",
-  "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
+  "name": "Backup Home Assistant Add-on: Zigbee2MQTT"
 }
